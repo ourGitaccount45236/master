@@ -1,0 +1,14 @@
+
+change 1
+
+
+ Volume in drive C has no label.
+ Volume Serial Number is C493-EF1F
+
+ Directory of C:\Users\nCodeIT\Desktop\git folder
+
+17-02-2019  20:09    <DIR>          .
+17-02-2019  20:09    <DIR>          ..
+17-02-2019  20:09                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  146,338,439,168 bytes free
